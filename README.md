@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://cdn.discordapp.com/avatars/543045653509570581/4791af4ccdbe517cde5b28c26e8bb543.png" width="35"> Wow, it's AuSIDE!</h1>
+<h1 align="center"><img src="https://avatars.githubusercontent.com/u/103880249" width="35"> Wow, it's AuSIDE!</h1>
 <p align="center"><img src="https://skillicons.dev/icons?i=cs,discord,bots,discordjs,fastapi,js,py,sqlite,sentry,vscode,windows"></p>
 <hr/>
 
